@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 1029f2eef9b41e64187150085dbb4914
+timeCreated: 1486735408
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - blueprintMaterial: {fileID: 2100000, guid: a728fc969dd21ea46a6cd8412abfc59f, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
